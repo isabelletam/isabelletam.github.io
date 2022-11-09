@@ -1,4 +1,4 @@
-# Isabelle's attempt at a terminal website
+# Isabelle's attempt at a terminal website using LiveTerm
 
 Hey! Good to see you here. 
 
